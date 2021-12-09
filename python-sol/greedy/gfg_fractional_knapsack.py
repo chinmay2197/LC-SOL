@@ -2,6 +2,8 @@
 
 #User function Template for python3
 
+# ordering: value/weight asc
+
 class Solution:    
     #Function to get the maximum total value in the knapsack.
     def fractionalknapsack(self, W,Items,n):
